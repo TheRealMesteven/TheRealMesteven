@@ -7,15 +7,15 @@
   <tr>
     <td rowspan="2">
       <p align="left"> <a href="https://github.com/ashish2030">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=7300ff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=00bfff" />
 </a> </p></td>
     <td><a href="https://github.com/ashish2030">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMesteven&theme=black-ice&&background=151515&&ring=7300ff&&fire=7300ff&currStreakLabel=7300ff" alt="TheRealMesteven"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMesteven&theme=black-ice&&background=151515&&ring=00bfff&&fire=00bfff&currStreakLabel=00bfff" alt="TheRealMesteven"/>
 </a> </td>
   </tr>
   <tr>
     <td><a href="https://github.com/Ashish2030">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=7300ff&icon_color=7300ff&border_color=fffffff" alt="TheRealMesteven" align = "center"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=00bfff&icon_color=00bfff&border_color=fffffff" alt="TheRealMesteven" align = "center"/>
 </a></td>
   </tr>
   </table>
@@ -26,7 +26,7 @@
 
 <h2></h2>
 
-<p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=151515&color=7300ff&line=7300ff&point=FFFFFF&hide_border=false&" /></a></p>
+<p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=151515&color=00bfff&line=00bfff&point=FFFFFF&hide_border=false&" /></a></p>
 
 <!-- Ashish Kumar Activity Graph -->
 

@@ -1,18 +1,34 @@
-### Hi there 👋
+<h1 align="center"> 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗠𝗲𝘀𝘁</h1>
+  <h3 align="center"> 𝘈 𝘴𝘦𝘭𝘧 𝘵𝘢𝘶𝘨𝘩𝘵 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳 𝘧𝘳𝘰𝘮 𝘌𝘯𝘨𝘭𝘢𝘯𝘥 </h3>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+<h2></h2>
 
-<summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRealMesteven&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TheRealMesteven" align = "center"/>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+  <tr>
+    <td rowspan="2">
+      <p align="left"> <a href="https://github.com/ashish2030">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMesteven&langs_count=100&theme=algolia&bg_color=151515&title_color=7300ff" />
+</a> </p></td>
+    <td><a href="https://github.com/ashish2030">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMesteven&theme=black-ice&&background=151515&&ring=7300ff&&fire=7300ff&currStreakLabel=7300ff" alt="TheRealMesteven"/>
+</a> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Ashish2030">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealMesteven&hide_border=false&count_private=true&show_icons=true&theme=algolia&bg_color=151515&title_color=7300ff&icon_color=7300ff&border_color=fffffff" alt="TheRealMesteven" align = "center"/>
+</a></td>
+  </tr>
+  </table>
 
-<summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealMesteven&theme=black-ice&hide_border=true&stroke=0000&background=202020&ring=6600CC&fire=6600CC&currStreakLabel=6600CC" alt="TheRealMesteven" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=0D1117&color=6600CC&line=6600CC&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<!--<summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/TheRealMesteven"><img src="https://github-profile-trophy.vercel.app/?username=TheRealMesteven&margin-w=5&theme=radical" alt="TheRealMesteven" /></a> </p>-->
+<h2></h2>
+
+<p align="center"<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheRealMesteven&bg_color=151515&color=7300ff&line=7300ff&point=FFFFFF&hide_border=false&" /></a></p>
+
+<!-- Ashish Kumar Activity Graph -->
 
 <br>
 
